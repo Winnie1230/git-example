@@ -25,8 +25,15 @@ This is an H1
 > This is [an example](http://example.com/ "Title") inline link.
 
 > [This link](http://example.net/) has no title attribute.
+
+
+This is a regular paragraph.
+
 <table>
     <tr>
         <td>Foo</td>
     </tr>
 </table>
+
+This is another regular paragraph.
+
