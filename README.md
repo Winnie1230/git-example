@@ -25,3 +25,8 @@ This is an H1
 > This is [an example](http://example.com/ "Title") inline link.
 
 > [This link](http://example.net/) has no title attribute.
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
