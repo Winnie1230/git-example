@@ -37,3 +37,6 @@ This is a regular paragraph.
 
 This is another regular paragraph.
 
+<a href="http://www.wibibi.com" target="_blank" title="Wibibi 網頁設計教學百科">Wibibi 網頁設計教學百科</a>
+
+<a href="http://images.google.com/images?num=30&q=larry+bird">google</a>
